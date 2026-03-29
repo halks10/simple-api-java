@@ -7,6 +7,7 @@ Aplicação API
 - Java 21
 - Git
 - Docker
+- Teste FIAP 02
 
 ## Build e execução
 
