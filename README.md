@@ -8,6 +8,7 @@ Aplicação API
 - Git
 - Docker
 - Teste FIAP 02
+- Teste de vínculo com AB#3
 
 ## Build e execução
 
